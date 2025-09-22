@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!--
+    This is a standard backup configuration file. The rules in data_extraction_rules.xml
+    will take precedence for cloud backup and device-to-device transfers on modern
+    Android versions. This file ensures compatibility with the Android Manifest.
+    -->
+</full-backup-content>
+
